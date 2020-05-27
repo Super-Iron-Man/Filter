@@ -1,0 +1,6 @@
+https://github.com/udacity/self-driving-car-sim/releases
+
+包含Linux/Windows/Mac版本
+
+建议使用Linux版本进行开发
+https://github.com/udacity/self-driving-car-sim/releases/download/v1.45/term2_sim_linux.zip

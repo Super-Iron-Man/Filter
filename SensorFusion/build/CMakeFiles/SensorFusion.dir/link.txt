@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -O3 -DNDEBUG  -rdynamic CMakeFiles/SensorFusion.dir/src/algorithims/kalmanfilter.cpp.o CMakeFiles/SensorFusion.dir/src/algorithims/sensorfusion.cpp.o CMakeFiles/SensorFusion.dir/src/main.cpp.o  -o ../bin/SensorFusion 
